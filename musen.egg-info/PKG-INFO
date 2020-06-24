@@ -1,12 +1,12 @@
 Metadata-Version: 1.2
 Name: musen
-Version: 1.0.2
-Summary: musen file processing library produced by musen team
+Version: 1.0.7
+Summary: musen file processing library produced by musen team.
 Home-page: https://github.com/FFXW0720/musen
 Author: ffxw0720
 Author-email: feifanxiaowang@163.com
 License: GPL-3.0 License
-Description: musen file processing library produced by musen team
+Description: musen file processing library produced by musen team.Welcome to the http://musendocs.musen.teamview usage documents!© 2020 musen
 Keywords: pip,musen,ffxw0720
 Platform: any
 Classifier: Programming Language :: Python :: 3

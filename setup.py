@@ -10,13 +10,13 @@
  
  
 from setuptools import setup, find_packages
- 
+
 setup(
   name = "musen",
-  version = "1.0.2",
+  version = "1.0.7",
   keywords = ("pip", "musen", "ffxw0720"),
-  description = "musen file processing library produced by musen team",
-  long_description = "musen file processing library produced by musen team",
+  description = "musen file processing library produced by musen team.",
+  long_description = "musen file processing library produced by musen team.Welcome to the http://musendocs.musen.teamview usage documents!© 2020 musen",
   license = "GPL-3.0 License",
  
   url = "https://github.com/FFXW0720/musen",

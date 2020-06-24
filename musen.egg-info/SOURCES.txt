@@ -1,4 +1,3 @@
-README.md
 setup.py
 musen/__init__.py
 musen/musen.py
