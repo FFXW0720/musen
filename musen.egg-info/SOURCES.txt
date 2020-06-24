@@ -1,0 +1,8 @@
+README.md
+setup.py
+musen/__init__.py
+musen/musen.py
+musen.egg-info/PKG-INFO
+musen.egg-info/SOURCES.txt
+musen.egg-info/dependency_links.txt
+musen.egg-info/top_level.txt
