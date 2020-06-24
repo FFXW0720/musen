@@ -1,2 +1,4 @@
 # musen
-musen文件的处理库
+musen file processing library produced by musen team
+## usage
+### Welcome to the [document](http://musendocs.musen.team)
