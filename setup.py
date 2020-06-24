@@ -13,7 +13,7 @@ from setuptools import setup, find_packages
  
 setup(
   name = "musen",
-  version = "1.0.1",
+  version = "1.0.2",
   keywords = ("pip", "musen", "ffxw0720"),
   description = "musen file processing library produced by musen team",
   long_description = "musen file processing library produced by musen team",
@@ -30,7 +30,6 @@ setup(
 
   classifiers=[   # 只适用于python3，若构建python2包，请移除
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
   ],
   python_requires='>=3.6',
